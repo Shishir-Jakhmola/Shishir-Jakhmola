@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shishir-Jakhmola
-- 👀 I’m interested in SPFX & PCF
-- 🌱 I’m currently learning SPFX & PCF
-- 💞️ I’m looking to collaborate on SPFX & PCF
-- 📫 How to reach me ...
+- 👀 I’m interested in SPFx & PCF
+- 🌱 I’m currently learning SPFx & PCF
+- 💞️ I’m looking to collaborate on SPFx & PCF
+- 📫 My email address is shishir.jakhmola@outlook.com
 
 <!---
 Shishir-Jakhmola/Shishir-Jakhmola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
